@@ -1,4 +1,4 @@
-# Projeto Cypress_BDD
+# Projeto Cypress_BDD_PageObjects
 
 ## Descrição
 
@@ -33,4 +33,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, sugerir 
 - BDD (Desenvolvimento Guiado por Comportamento)
 - Page Objects
 
-Este projeto é mantido por humbjd. Agradecemos por contribuir para a melhoria contínua da qualidade de software!
+
