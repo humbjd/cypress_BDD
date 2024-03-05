@@ -13,5 +13,8 @@
     "@badeball/cypress-cucumber-preprocessor": "^20.0.1",
     "@bahmutov/cypress-esbuild-preprocessor": "^2.2.0",
     "cypress": "^13.6.6"
+  },
+  "devDependencies": {
+    "cypress-mochawesome-reporter": "^3.8.2"
   }
 }
