@@ -5,6 +5,7 @@ const { addCucumberPreprocessorPlugin } = require("@badeball/cypress-cucumber-pr
 const { createEsbuildPlugin } = require("@badeball/cypress-cucumber-preprocessor/esbuild")
 
 module.exports = defineConfig({
+  projectId: '3tmbaf',
   e2e: {
     reporter: 'cypress-mochawesome-reporter',
     reporterOptions: {
